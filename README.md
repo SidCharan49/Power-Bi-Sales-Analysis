@@ -48,7 +48,8 @@ This project presents an **interactive Sales Analysis Dashboard** built using **
 
 ## Screenshot
 
-![Sales Dashboard Screenshot](Screenshot%20(106).png)
+![image](https://github.com/user-attachments/assets/dc5f25d4-f93a-4384-99f7-3029b4f5a458)
+
 
 
 ## Future Improvements
